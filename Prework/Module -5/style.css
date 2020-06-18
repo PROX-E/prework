@@ -1,0 +1,39 @@
+
+#para1 {
+    color: red;
+  }
+  
+  #para2 {
+    color:blue;
+  }
+
+  #para3 {
+    color:green;
+  }
+  #para4 {
+    font-size:56px;
+  }
+
+#para5 {
+  font-size:12px;
+}
+  #centered {
+  text-align: center;
+}
+#bold {
+  font-weight:bold;
+}
+#multiple {
+  font-weight:bold; 
+  color:orange;
+}
+
+.styledFont {
+  color:green;
+  font-size: 18px;
+} 
+#styledImage {
+  border-style:solid;
+  border-color:purple;
+  border-width:6px;
+}
